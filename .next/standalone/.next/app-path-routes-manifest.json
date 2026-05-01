@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/icon.svg/route": "/icon.svg",
+  "/api/products/route": "/api/products",
+  "/login/page": "/login",
+  "/page": "/",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/projects/page": "/dashboard/projects",
+  "/dashboard/settings/page": "/dashboard/settings",
+  "/dashboard/tasks/page": "/dashboard/tasks",
+  "/dashboard/team/page": "/dashboard/team"
+}
